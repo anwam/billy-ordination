@@ -1,5 +1,5 @@
 *:8080 {
-    root ./index/html
+    root ./index.html
     gzip
     expires {
         match .html$ 1d
